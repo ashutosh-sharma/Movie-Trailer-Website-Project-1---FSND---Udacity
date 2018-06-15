@@ -25,4 +25,3 @@ class Movie():
     # Using inbuilt python package 'webbrowser'
     def showTrailer(self):
         webbrowser.open(self.trailer_youtube_URL)
-        
