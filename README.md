@@ -10,7 +10,7 @@
 4. You will be opened with a webpage which is dynamically created using python scripts.
 
 ## Prerequisites:
- 1. Python, if not installed on your system, [Install python](https://www.python.org)
+ 1. Python 2.x.x, if not installed on your system, [Install python](https://www.python.org)
  **You should have Python and a Web browser(Google Chrome) installed on your computer before running this project.**
  
 ## Moving over project files:
